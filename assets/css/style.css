@@ -1,0 +1,20 @@
+	body{
+		background-image:url(https://i.pinimg.com/originals/75/20/53/75205308112765dd46e3de843c542f1a.jpg);
+		}
+
+	.jumbotron{
+		background-image:url(http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&w=288&h=288&transparent=true);
+		padding-top: 165px;
+		font-weight: bold;
+		background-color: white;
+		color: blue;
+	}
+
+	.choice{
+		color: red;
+		background-color: blue; 
+	}
+
+	.audio{
+		visibility: hidden;
+	}
